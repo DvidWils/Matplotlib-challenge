@@ -3,6 +3,7 @@
 This project analyzes the performance of various medications on the volume of tumors in mice diagnosed with squamous cell carcinoma, a commonly occurring form of skin cancer.
 The primary objective was to evaluate the performance of Pymaceuticals' Capomulin drug, compared to other medication.
 ---
+
 ## Objectives
 
 - Clean and merge dataset
@@ -12,11 +13,13 @@ The primary objective was to evaluate the performance of Pymaceuticals' Capomuli
 - Analyze trends in tumor progression and treatment outcomes
 - Assess the correlation between mouse weight and tumor volume for Capomulin
 ---
+
 ## Dataset
 
 - `Mouse_metadata.csv`: Mouse demographic and treatment info
 - `Study_results.csv`: Tumor volume measurements collected
 ---
+
 ## Key Findings
 
 Capomulin and Ramicane had lower final tumor volumes shown by the box plots and summary statistics. This indicates that they were most effective in reducing tumor size.
@@ -31,10 +34,12 @@ The summary statistics showed Ketapril and Zoniferol having some of the highest 
 + Ketapril's Mean = 55.24 mm3, Median = 53.70 mm3
 + Zoniferol's Mean = 53.23 mm3, Median = 51.82 mm3
 ---
+
 ## Tools
 
 - Python (Pandas, Matplotlib, SciPy)
 ---
+
 ## Resources
 
 Relied on in class activites and examples from the instructor.
