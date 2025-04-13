@@ -1,5 +1,4 @@
-# Module 5 - Matplotlib-challenge: Pymaceuticals Tumor Volume Study
-
+# Module 5 - Matplotlib-challenge: Pymaceuticals Analysis
 This project analyzes the performance of various medications on the volume of tumors in mice diagnosed with squamous cell carcinoma, a commonly occurring form of skin cancer.
 The primary objective was to evaluate the performance of Pymaceuticals' Capomulin drug, compared to other medication.
 ---
