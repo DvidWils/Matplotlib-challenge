@@ -43,4 +43,4 @@ The summary statistics showed Ketapril and Zoniferol having some of the highest 
 ## Resources
 
 Relied on in class activites and examples from the instructor.
-ChatGPT was used for conceptual support and to clarify data analysis and visualization techniques.
+ChatGPT was used for conceptual support, as well as, for clarity with data analysis and visualization techniques.
